@@ -1,4 +1,5 @@
 # Resume
+
 my resume portfolio hub for open source projects
 
 ## Projects
@@ -75,6 +76,7 @@ There are two different services that handle cropping the images. This is so tha
 
 [Ansible-Pipeline - ADO](https://russellboley.visualstudio.com/Dark-Cloud-Encyclopedia/_git/Ansible-Pipeline?path=%2Fkubernetes-deploy&version=GBmaster): Deploys the container app to the kubernetes cluseter as a deployment.
 
+[Elastic-in-kubernetes - ADO](https://russellboley.visualstudio.com/Dark-Cloud-Encyclopedia/_git/Elastic-In-Kubernetes): CICD deploy of a scalable elastic stack into a kubernetes cluster.
 
 ## Education Examples
 
