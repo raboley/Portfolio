@@ -4,6 +4,12 @@ my resume portfolio hub for open source projects
 
 ## Projects
 
+### Scalable Jenkins in kubernetes
+
+To Do:
+https://medium.com/@timhberry/deploy-jenkins-to-google-kubernetes-engine-with-helm-60e0a4d7de93
+https://medium.com/@timhberry/terraform-pipelines-in-jenkins-47267129ff06
+
 ### Dark Cloud Encyclopedia
 
 A website dedicated to displaying images and stats for weapons obtainable in the PS2 classic Dark Cloud. The project consists of an angular web front end hosted in an s3 bucket, and a back end of microservices that take raw unlabeled images from a twitter account and label, crop and download them to an s3 bucket do display on the website.
@@ -52,7 +58,7 @@ There are two different services that handle cropping the images. This is so tha
 
 [image-manipulation-crop-blackbars](https://russellboley.visualstudio.com/Dark-Cloud-Encyclopedia/_git/image-manipulation-crop-blackbars): Crops the black bars of an image using known coordinates and places the image in the final s3 bucket where the website hosts it's images. Might get rid of this, since I don't think the scalability is worth the complexity it adds.
 
-### Monster Hunter World Amror Optimzer
+### Monster Hunter World Armor Optimzer
 
 [Monster Hunter World Armor Optimizer](https://github.com/raboley/MHWArmorSkillOptimizer) is an iPad app that allows users to easily min/max armor combinations for the game monster Hunter world. Users pick their desired set of skills and the app returns the most efficient set of armor pieces/jewels to achieve that outcome.
 
